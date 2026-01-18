@@ -40,5 +40,5 @@ NONE
   - Is the booking interface easy to understand for first-time users without training.
   - Will recurring meetings be easy to edit or cancel after they’ve been created.
 
-- **Requests or adjustments:**
-  - Improve the look and usability of the booking screen based on user feedback
+- **Requests or adjustments**
+  - Improve the look and usability of the booking screen based on user feedback.
